@@ -1,0 +1,119 @@
+.header{
+    position: relative;
+    top:-50px;
+    width:1550px;
+    height:50px;
+    background-color:#ff9292 ;
+}
+
+
+    .Subjects{
+            position:fixed;
+            top:50px;
+            right:700px;
+            /* width:750px; */
+            
+            width:850px;
+            height: 720px; 
+            display:justified;
+            justify-content: space-between;
+            flex:1;
+            background-color: white;
+            border-top-right-radius: 30px;
+            border-bottom-right-radius: 30px;
+    }
+
+    .Details{
+        position:fixed;
+        top:50px;
+        left:790px;
+        
+        width:750px;
+        height:750px;
+
+        background-color:#f1edd4 ;
+    }
+
+    input[type="subject"]{
+        width: 250px;
+        height: auto;
+        padding: 15px;
+        align-self: center;
+        margin: 5px 0 10px 15px;
+        border-radius: 8px;
+        border: none;
+        background: #F1D9c6;
+    }
+
+    label {
+        position: absolute;
+        top: -20%; /* Center vertically */
+        left: 50%; /* Center horizontally */
+        transform: translate(-50%, -50%); /* Correct positioning */
+      }
+
+    .AFLL{
+        position: fixed;
+        left:100px;
+        top:200px;
+    }
+
+    .DSA{
+        position: fixed;
+        left:400px;
+        top:200px;
+    }
+
+    .WT{
+        position: fixed;
+        left:100px;
+        top:350px;
+    }
+
+    .SDS{
+        position: fixed;
+        left:400px;
+        top:350px;
+    }
+
+    .DDCO{
+        position: fixed;
+        left:250px;
+        top:500px;
+    }
+
+    #save{
+        position: fixed;
+        top:650px;
+        left: 330px;
+        width:110px;
+        height: 40px;
+        border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    }
+
+    h1{
+        position:absolute;
+        top:60px;
+        left:270px;
+        color: black;
+        font-size: 32px;
+        font-family: "Times New Roman", Times, serif;
+        font-weight: 700;
+        /* text-decoration: underline; */
+        
+    }
+
+    .lady_img{
+        position:fixed;
+        width:54%;
+        right:130px;
+        /* bottom:-20px; */
+        top:55px;
+        overflow-x: hidden;
+    }
+
+
+    

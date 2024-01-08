@@ -1,0 +1,116 @@
+.header{
+    position: relative;
+    top:-50px;
+    left: 0px;
+    width:1600px;
+    height:50px;
+    background-color: #ff9292;
+}
+
+.brown_box{
+    position:relative;
+    top:-50px;
+    background-color: #f4dcc4;
+    width:1600px;
+    height:315px;
+}
+
+.yellow_bg{
+    position: relative;
+    background-color: #fcfce4;
+    top:-50px;
+    width:1600px;
+    height:2040x;
+}
+
+.pfp{
+    background-color:#fcfce4 ;
+    height:2040px;
+}
+
+.line_1
+{
+    position:relative;
+    left:40px;
+    width:95%
+}
+
+.white_box{
+
+    position:relative;
+    top:-315px;
+    left:100px;
+    background-color: white;
+    width:1400px;
+    height:1500px;
+    border-color: black;
+}
+
+.logo_pfp{
+    position: relative;
+    left:50px;
+    top:-50px;
+}
+
+.corner_pfp{
+    position:relative;
+    left:800px;
+    top:0px;
+    width:250px;
+}
+
+.prof_{
+    position: relative;
+    top:230px;
+    width:20%;
+    right:350px;
+}
+
+#name{
+    font-size:40px;
+    font-weight: bold;
+    position:relative;
+    top:-1600px;
+    left:1000px;
+}
+
+#sem{
+    font-size:30px;
+    font-weight: bold;
+    position:relative;
+    top: -1500px;
+    left:600px;
+}
+
+#sect{
+    font-size:30px;
+    font-weight: bold;
+    position:relative;
+    top: -1400px;
+    left:434px;
+}
+
+#mail{
+    font-size:30px;
+    font-weight: bold;
+    position:relative;
+    top: -1300px;
+    left:285px;
+}
+
+.inner_yellow{
+    position: relative;
+    bottom:1275px;
+    left:200px;
+    width:1200px;
+    height:700px;
+    background-color: #fcfce4;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+#id{
+    
+}

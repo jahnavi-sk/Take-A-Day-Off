@@ -1,0 +1,175 @@
+.header{
+  position: relative;
+  top:-50px;
+  width:1550px;
+  height:50px;
+  background-color:#ff9292 ;
+}
+.logo {
+  position:relative;
+  bottom:220px;
+  left:40px;
+  height: 100px;
+  width: auto;
+}
+
+.img_h{
+  position: relative;
+  left:-85px;
+  top:90px;
+}
+
+
+.reg_btn{
+  position: relative;
+  top:345px;
+  left:145px;
+  width:150px;
+  background-color: #bfccfb;
+  height:40px;
+  font-size: large;
+  border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.white_btn{
+  position: relative;
+  top:-713px;
+  width:100px;
+  left:1450px;
+  /* right:-800px; */
+  bottom:284px;
+  height:40px;
+  text-align: center;
+  font-size: large;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: white;
+}
+
+#dark-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);  
+  display:none;
+}
+
+.whiteContainer{
+  position: relative;
+  width:450px;
+  left:550px;
+  top:180px;
+  background-color: white;
+  height: 400px;
+  z-index: 1;
+  border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.lab_1{
+  position: relative;
+  left:180px;
+  font-size: 30px;
+  top:-25px;
+}
+.pass_n{
+  position: relative;
+  left: 50px;
+  top:-20px;
+  right:450px;
+  font-size: 25px;
+} 
+
+
+
+#sbt_btn{
+  position: relative;
+  top:5               px;
+  left:148px;
+  width:150px;
+  background-color: #bfccfb;
+  height:40px;
+  font-size: large;
+  border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.user_n{
+  position: relative;
+  left: 50px;
+  top:10px;
+  font-size: 25px;
+
+}
+
+.line{
+  position: relative;
+  top:110px;
+  width:45%
+}
+
+.line_2{
+  position: relative;
+  left:40px;
+  top:110px;
+  width:46%;
+}
+
+.or{
+  position:relative;
+  top:125px;
+  left:-185px;
+}
+.user_name{
+  position: relative;
+  top:-25px;
+  left:190px;
+  background: #f1edd4;
+  height:40px;
+  text-align: center;
+  border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.pass_word{
+  position: relative;
+  top: 45px;
+  left:-5px;
+  background: #f1edd4;
+  height:40px;
+  text-align: center;
+  border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+  
+}
+
+.acct{
+  position:relative;
+  top:310px;
+  left:80px;
+}
+
+.home_text{
+  position: relative;
+  width: 400px;
+  height:180px;
+  left:950px;
+  font-size: 25px;
+  top: -350px;
+}
